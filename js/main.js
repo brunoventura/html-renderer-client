@@ -26,7 +26,7 @@ var context = {};
 
 <ul>
     {{#items}}
-    <li>{{name}}</l1>
+    <li>{{name}}</li>
     {{/items}}
 </ul>
 
